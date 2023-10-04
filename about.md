@@ -15,7 +15,7 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 ## Professional Experience
 
-# DIGIT Game Studios - Oct 2019 - Present
+# DIGIT Game Studios - Oct 2019 - Sep 2021
 
 **Game Client Engineer**
 
