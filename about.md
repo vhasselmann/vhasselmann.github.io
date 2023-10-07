@@ -15,6 +15,23 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 ## Professional Experience
 
+# Ubisoft London - Nov 2021 - Present
+
+**Senior Gameplay Programmer**
+
+Hired as Gameplay Programmer to develop new games under Hungry Shark IP series with over one billion downloads
+
+- Developed core and new features in the game whilst maintaining and improving existing code base
+- Advocated features, Art and UX/UI specs to flesh out the best way to get new ideas into the
+game
+- Assisted the Art team with tools to help enhancing the game feel
+- Helped maintaining multiple features streams at the same time, resolving conflicts and merge issues on version control
+- Mentored and assisted junior programmers to become independent on their work helping them
+to deliver work above expectations
+- Written technical feature documentations with simple language that everyone could read and understand
+
+> Technical Environment: Unity3D, C#, Perforce, JetBrains Rider, iOS, Android, JSON, Jenkins
+
 # DIGIT Game Studios - Oct 2019 - Sep 2021
 
 **Game Client Engineer**
