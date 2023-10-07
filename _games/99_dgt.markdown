@@ -20,7 +20,7 @@ There is also a combat system which happens in real time, where you either attac
 
 There are also events which give the players various rewards such as base resources, refined materials, officer xp, ship xp, officer shards, ship blueprints and faction points.
 
-<p style="text-align:center"><iframe width="1903" height="754" src="https://www.youtube.com/embed/dRGC2wyCVgw" title="Star Trek Fleet Command Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dRGC2wyCVgw" title="Star Trek Fleet Command Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 # Principal tasks
 - Implemented core features;
