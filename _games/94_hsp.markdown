@@ -18,7 +18,7 @@ gallery:
 
 Hungry Shark Primal is an action-adventure video game, developed and published by Future Games of London. This game has beautiful graphics and vivid sound, providing a great gaming experience for players.
 
-<p style="text-align:center">Test</p>
+<p style="text-align:center"><img src="/img/hsp/hsp-gameplay.gif" alt="Hungry Shark Primal" style="width:690px;height:332px;"></p>
 
 # Principal tasks
 - Prototyping
