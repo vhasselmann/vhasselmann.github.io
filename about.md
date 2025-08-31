@@ -17,9 +17,7 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 # Scopely - Dec 2023 - Present
 
-**Software Engineering Manager
-
-# Ubisoft London - Nov 2021 - October 2023
+**Software Engineering Manager**
 
 Returned to Scopely working remotely from the UK as a UI Lead Engineer for UI Team on an undisclosed project.
 
@@ -31,6 +29,18 @@ Returned to Scopely working remotely from the UK as a UI Lead Engineer for UI Te
 - Work closely with QA to resolve bugs and deliver high-quality code for testing, contributing directly to the code base
 - Be the quality gate for all code that goes into our core technologies. Keep the team writing clean, efficient and optimised code
 - Work with stakeholders to figure out and implement the best alternative technical solutions
+
+# Ubisoft London - Nov 2021 - October 2023
+
+Hired as Gameplay Programmer to develop new games under Hungry Shark IP series with over one billion downloads
+
+- Developed core and new features in the game whilst maintaining and improving existing code base
+- Advocated features, Art and UX/UI specs to flesh out the best way to get new ideas into the game
+- Assisted the Art team with tools to help enhancing the game feel
+- Helped maintaining multiple features streams at the same time, resolving conflicts and merge issues on version control
+- Mentored and assisted junior programmers to become independent on their work helping them to deliver work above expectations
+- Written technical feature documentations with simple language that everyone could read and understand
+- Technical Environment: Unity3D, C#, Perforce, JetBrains Rider, iOS, Android, JSON, Jenkins
 
 **Senior Gameplay Programmer**
 
