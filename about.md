@@ -15,7 +15,22 @@ C#, Unity3D, GamePlay Programming, IA, Game Core Programming, Tools, Gear VR, Mo
 
 ## Professional Experience
 
-# Ubisoft London - Nov 2021 - Present
+# Scopely - Dec 2023 - Present
+
+**Software Engineering Manager
+
+# Ubisoft London - Nov 2021 - October 2023
+
+Returned to Scopely working remotely from the UK as a UI Lead Engineer for UI Team on an undisclosed project.
+
+- Lead and manage a team with engineers who focus on developing and maintaining the game client.
+- Design and implement new features in our game client, working collaboratively with other stakeholder teams to understand requirements and identify the best technical solutions
+- Propose and implement improvements to our development processes, workflows and tools, to increase efficiency, quality and throughput
+- Conduct pair programming, code reviews, 1-1’s and knowledge sharing sessions to enhance skills and build an incredible development culture
+- Mentor and educate direct reports & other developers to build a correct mindset towards sustainable software development
+- Work closely with QA to resolve bugs and deliver high-quality code for testing, contributing directly to the code base
+- Be the quality gate for all code that goes into our core technologies. Keep the team writing clean, efficient and optimised code
+- Work with stakeholders to figure out and implement the best alternative technical solutions
 
 **Senior Gameplay Programmer**
 
